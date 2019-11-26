@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardsDebugger", "CardsDebugger\CardsDebugger.csproj", "{691F6197-4894-4EF1-9243-A4230F484BE5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Library", "Library", "{F9492B32-B040-484E-B847-5CA825724486}"
+	ProjectSection(SolutionItems) = preProject
+		Library\NationalInstruments.Common.dll = Library\NationalInstruments.Common.dll
+		Library\NationalInstruments.DAQmx.dll = Library\NationalInstruments.DAQmx.dll
+		Library\NationalInstruments.NI4882.dll = Library\NationalInstruments.NI4882.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://wfsoft.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CardsDebugger\\CardsDebugger.csproj
+		SccProjectName1 = CardsDebugger
+		SccLocalPath1 = CardsDebugger
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{691F6197-4894-4EF1-9243-A4230F484BE5}.Debug|x86.ActiveCfg = Debug|x86
+		{691F6197-4894-4EF1-9243-A4230F484BE5}.Debug|x86.Build.0 = Debug|x86
+		{691F6197-4894-4EF1-9243-A4230F484BE5}.Release|x86.ActiveCfg = Release|x86
+		{691F6197-4894-4EF1-9243-A4230F484BE5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
